@@ -1,2 +1,0 @@
-# Codigo-qr
- ejercicios
